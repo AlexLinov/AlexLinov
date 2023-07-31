@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bangers&size=33&pause=1000&color=3D80F7&background=02071000&center=true&vCenter=true&width=435&lines=Welcome!)](https://git.io/typing-svg)
 ---
 ### :fire: My Stats :
 
