@@ -5,7 +5,7 @@
 ![HackerGif](https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif)
 ### :fire: My Stats :
 ---
-[![GitHub Streak](https://streak-stats.demolab.com/?user=actua-L)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=actua-L&theme=dark&mode=weekly)](https://git.io/streak-stats)
 ---
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=actua-L&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---
