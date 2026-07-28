@@ -7,5 +7,5 @@
 ---
 [![GitHub Streak](https://streak-stats.demolab.com?user=AlexLinov&theme=neon-dark&mode=weekly)](https://git.io/streak-stats)
 ---
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexLinov&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexLinov&theme=neon-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---
